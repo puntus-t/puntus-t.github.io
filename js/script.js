@@ -194,16 +194,3 @@ window.addEventListener('DOMContentLoaded', function () {
         
     });
 });
-
-// if (userAnswers.length == 9 && userAnswers >= 9){
-//     alert('Спасибо, Ваш результат ниже!');
-//     revolt.style.display = 'block';
-// }
-// if (userAnswers.length == 9 && userAnswers >=17){
-//     alert('Спасибо, Ваш результат ниже!')
-//     oder.style.display = 'block';
-// };
-// if (userAnswers.length == 9 && userAnswers >=26){
-//     alert('Спасибо, Ваш результат ниже!')
-//     life.style.display = 'block';
-// };
